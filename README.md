@@ -1,6 +1,6 @@
 # Face Attendance System with Liveness Detection
 
-This project implements a Face Attendance System using computer vision techniques to automate attendance tracking. It includes a liveness detection feature to prevent spoofing attacks, ensuring security and reliability.
+###### This project implements a Face Attendance System using computer vision techniques to automate attendance tracking. It includes a liveness detection feature to prevent spoofing attacks, ensuring security and reliability.
 
 ## Features
 ###### Face Detection and Recognition: Detects and identifies individuals in real-time.
@@ -17,7 +17,7 @@ This project implements a Face Attendance System using computer vision technique
 ###### Retrain the system if needed.
 
 #### Real-Time Attendance:
-Use a webcam or an external camera to detect and recognize faces.
+###### Use a webcam or an external camera to detect and recognize faces.
 
 ## Tools and Libraries
 ###### Python 3.8+
