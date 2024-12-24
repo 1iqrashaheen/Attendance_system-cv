@@ -9,7 +9,7 @@ Cross-Platform Compatibility: Works on multiple platforms with Python 3.8+.
 Customizable Dataset: Train the system with your dataset for personalized use.
 
 ## Usage
-####Run the System:
+#### Run the System:
 python main.py
 
 #### Add New Faces:
